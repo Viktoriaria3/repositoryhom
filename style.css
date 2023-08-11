@@ -1,0 +1,21 @@
+.gallery-card {
+    display: block;
+    background-color: lightgrey;
+    font-size: 24px;
+    text-align: center;
+    padding: 20px;
+}
+.gallery-heading {
+    display: inline-block;
+    background-color: lightyellow;
+    font-size: 20px;
+    border-width: 20px;
+    text-align: center;
+}
+.gallery-text {
+    display: inline;
+    background-color: lightgreen;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 900;
+}
